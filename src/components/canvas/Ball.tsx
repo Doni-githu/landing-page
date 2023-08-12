@@ -1,4 +1,4 @@
-import React, { Suspense, useEffect, useState } from 'react'
+import { Suspense } from 'react'
 import { Canvas } from '@react-three/fiber'
 import { Decal, Float, OrbitControls, Preload, useTexture } from '@react-three/drei'
 
@@ -32,24 +32,6 @@ const Ball = ({ icon }: BallCanvasProps) => {
 }
 
 const BallCanvas = ({ icon }: BallCanvasProps) => {
-  const [isMobile, setMobile] = useState(false)
-  useEffect(() => {
-    const mediaQuary = window.matchMedia('(max-width: 500px)');
-
-
-    setMobile(mediaQuary.matches)
-
-    const handleMediaQuaryChange = (event: MediaQueryListEvent) => {
-      setMobile(event.matches)
-    }
-
-    mediaQuary.addEventListener("change", handleMediaQuaryChange)
-
-    return () => {
-      mediaQuary.removeEventListener("change", handleMediaQuaryChange)
-    }
-  }, [])
-
   return (
     <Canvas
       frameloop="demand"

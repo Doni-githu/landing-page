@@ -1,6 +1,4 @@
-import React from 'react'
 import { IServiceCardProps } from '../interfaces/types'
-import { styles } from '../styles'
 import { Tilt } from 'react-tilt'
 import { motion } from "framer-motion"
 import { fadeIn } from "../utils/motion"
@@ -11,8 +9,7 @@ const ServiceCard = ({ service, index }: IServiceCardProps) => {
                 variants={fadeIn("right", "spring", 0.5 * index, 0.7)}
                 className='w-full green-pink-gradient p-[1px] rounded-[20px] shadow-card'
             >
-                <div
-                    options={{
+                <div options={{
                         max: 45,
                         scale: 1,
                         speed: 450

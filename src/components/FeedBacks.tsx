@@ -1,8 +1,7 @@
-import React from 'react'
 import { motion } from "framer-motion"
 import { styles } from '../styles'
 import { SectionWrapper } from '../hoc'
-import { fadeIn, textVariant } from '../utils/motion'
+import { fadeIn } from '../utils/motion'
 import { testimonials } from "../constants"
 import FeedBackCard from './FeedBackCard'
 

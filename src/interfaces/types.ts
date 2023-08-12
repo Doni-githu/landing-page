@@ -1,5 +1,3 @@
-import { ReactNode } from "react"
-
 export interface IStyles {
     paddingX: string,
     paddingY: string,

@@ -1,7 +1,5 @@
-import React from 'react'
 import { IFeedBackCardProps } from '../interfaces/types'
 import { motion } from 'framer-motion'
-import { Tilt } from 'react-tilt'
 import { fadeIn } from '../utils/motion'
 
 

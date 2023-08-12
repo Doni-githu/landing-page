@@ -1,4 +1,3 @@
-import React from 'react'
 import { IExperienceCardProps } from '../interfaces/types'
 import { VerticalTimelineElement } from 'react-vertical-timeline-component'
 const ExperienceCard = ({ experience }: IExperienceCardProps) => {

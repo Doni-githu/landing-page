@@ -1,6 +1,6 @@
 import { OrbitControls, Preload, useGLTF } from "@react-three/drei";
 import { Canvas } from "@react-three/fiber";
-import { ChangeEvent, Suspense, useEffect, useState } from "react";
+import {Suspense, useEffect, useState } from "react";
 
 import CanvasLoader from "../Loader"
 import { IComputersProps } from "../../interfaces/types";

@@ -1,4 +1,4 @@
-import { useState, useRef, ChangeEvent, FormEventHandler, FormEvent, ChangeEventHandler } from 'react'
+import { useState, useRef, ChangeEvent, FormEventHandler, FormEvent } from 'react'
 import { motion } from 'framer-motion'
 import emailjs from "@emailjs/browser"
 import { styles } from '../styles'
