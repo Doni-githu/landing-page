@@ -1,0 +1,108 @@
+{
+    "header": {
+        "text": "Salom, men",
+        "sub1": "3D vizualizatsiyalar, foydalanuvchi",
+        "sub2": "interfayslar va veb dasturlarni yarataman"
+    },
+    "aboutcomponent": {
+        "sub": "Tanishuv",
+        "title": "Ko'zdan kechirish",
+        "card1": {
+            "title": "Veb dasturchi"
+        },
+        "card2": {
+            "title": "React Native dasturchi"
+        },
+        "card3": {
+            "title": "Backend dasturchi"
+        },
+        "card4": {
+            "title": "Tarkib yaratuvchisi"
+        },
+        "about": "Men TypeScript va JavaScriptda tajribali dasturchiman, va React, Node.js, Three.js kabi freymvorklarda mutaxassislik qilaman. Men tez o'rganuvchi bo'lib, mijozlar bilan yaqin hamkorlik qilaman, haqiqiy dunyodagi muammolarni hal qiladigan, samarali va foydalanuvchiga moslashtirilgan yechimlar yaratishda ishtirok etaman. Sizning ideyangizni hayotga o'tkazish uchun birgalikda ishlaymiz!"
+    },
+    "expirience": {
+        "sub": "Men hozirgacha nima qildim",
+        "title": "Ish tajribasi.",
+        "card2": {
+            "title": "Veb-dasturchi",
+            "company": "",
+            "date": "Yanvar 2022 - Aprel 2023",
+            "points": {
+                "text1": "React.js va boshqa bog'liq texnologiyalardan foydalanib veb-dasturlarni ishlab chiqish va saqlash.",
+                "text2": "Moslashuvchan dizaynning amalga oshirilishi va tarayuzli brauzerlarga moslashuvchanlik ta'minlash.",
+                "text3": "Kodning ko'rib chiqilishi va boshqa dasturchilarga foydali fikr berish."
+            }
+        },
+        "card3": {
+            "title": "Full stack Dasturchi",
+            "company": "TexnoPark",
+            "date": "Aprel 2023 - Hozirgi kunda",
+            "points": {
+                "text1": "React.js va boshqa bog'liq texnologiyalardan foydalanib veb-dasturlarni ishlab chiqish va saqlash.",
+                "text2": "Dizaynerlar, mahsulot ma`murlari va boshqa dasturchilar kabi xalqaro jamoalar bilan hamkorlik qilish, sifatli mahsulotlar yaratish.",
+                "text3": "Moslashuvchan dizaynning amalga oshirilishi va tarayuzli brauzerlarga moslashuvchanlik ta'minlash.",
+                "text4": "Kodning ko'rib chiqilishi va boshqa dasturchilarga foydali fikr berish."
+            }
+        }
+    },
+    "workcomponent": {
+        "sub": "Mening ishim",
+        "title": "Loyihalar.",
+        "body": "Mening ko'rsatilgan loyihalarimim bilan mening ko'nikmalarim va tajribalarimni haqiqiy dunyodagi ishlarimning misollarini namoyish etaman. Har bir loyiha qisqacha tasvirlangan va uning ichida kod repozitoriyalariga va yashirin demolariga havolalar berilgan. Bu mening murakkab muammolarni hal qilish, turli texnologiyalar bilan ishlash va loyihalarni samarali boshqarish qobiliyatimni aks ettiradi.",
+        "card1": {
+            "name": "Boom Do'kon",
+            "description": "Postlarni yaratish, o'chirish va o'zgartirish imkonini beradigan veb ilovasi. Ilovada o'z izohlaringizni postga qo'yishingiz mumkin"
+        },
+        "card2": {
+            "name": "CRM",
+            "description": "Kompyuter kurslarini yaratish va boshqarish imkonini beradigan veb-platforma"
+        },
+        "card3": {
+            "name": "Hyper Studio",
+            "description": "Postlarni yaratish, o'chirish va o'zgartirish imkonini beradigan veb ilovasi. Ilovada o'z izohlaringizni postga qo'yishingiz mumkin. Boshqa foydalanuvchilar bilan shaxsiy yoki umumiy chatda suhbatlashishingiz mumkin."
+        }
+    },
+    "testimonials": {
+        "sub": "Boshqalar qanday deyishdi",
+        "title": "Tavsiyalar.",
+        "card1": {
+            "testimonial": "Men bizning mahsulotimizdekiningdek chiroyli veb-sayt yaratishning imkonsiz ekanligini o'ylagan edim, lekin Rick meni xato isbotladi.",
+            "name": "Sara Lee"
+        },
+        "card2": {
+            "testimonial": "Men hech qachon Rick kabi web-dasturchi bilan tanishmagandim, ular mijozlarning muvaffaqiyati haqida haqiqatan ham qiziqish ko'radiganlar.",
+            "name": "Chris Brown"
+        },
+        "card3": {
+            "testimonial": "Rick bizning veb-saytimizni optimallashtirgandan so'ng, trafikimiz 50% oshdi. Ular uchun biz yetarli ta'riflashimiz mumkin emas!",
+            "name": "Lisa Wang"
+        }
+    },
+    "contactcomponent": {
+        "sub": "Aloqa qiling",
+        "title": "Aloqa.",
+        "info": "Rahmat. Sizga tez orada javob beraman",
+        "error": "Xatolik yuz berdi\nQaytadan urinib ko'ring",
+        "name": {
+            "label": "Ismingiz",
+            "placeholder": "Ismingiz nima?"
+        },
+        "email": {
+            "label": "Elektron pochtingiz",
+            "placeholder": "Elektron pochtingiz nima?"
+        },
+        "message": {
+            "label": "Xabaringiz",
+            "placeholder": "Xabaringizni yozing"
+        },
+        "button": {
+            "default": "Yuborish",
+            "load": "Jo'natilmoqda..."
+        }
+    },
+    "choose": "Variantni tanlang",
+    "about": "Men haqimda",
+    "contact": "Bog'lanish",
+    "work": "Ishlarim"
+}

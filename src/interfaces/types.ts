@@ -17,11 +17,6 @@ export interface IService {
     title: string
 }
 
-export interface IServiceCardProps {
-    index: number,
-    service: IService
-}
-
 export interface ISectionWrapperProps {
     Component: () => JSX.Element,
     idName: string
@@ -36,9 +31,7 @@ export interface IExperience {
     points: string[]
 }
 
-export interface IExperienceCardProps {
-    experience: IExperience
-}
+
 
 export interface ITag {
     name: string,
@@ -50,7 +43,8 @@ export interface IProject {
     description: string,
     tags: ITag[],
     image: string,
-    source_code_link: string
+    source_code_link: string,
+    public_link?: string
 }
 
 
@@ -62,18 +56,14 @@ export interface ITestimonial {
     image: string
 }
 
-export interface IFeedBackCardProps {
-    testimonial: ITestimonial,
-    index: number
-}
-
 export interface IForm {
     name: string,
     email: string,
     message: string
 }
 
-export interface IWorkProps {
-    work: IProject,
-    index: number
+export interface IProps<T> {
+    item: T
+    index: number,
 }
+

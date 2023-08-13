@@ -6,6 +6,8 @@ import web from "./web.png";
 import github from "./github.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
+import site from "./site.png"
+import herobg from "./herobg.png"
 
 import css from "./tech/css.png";
 import docker from "./tech/docker.png";
@@ -20,20 +22,28 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
+import java from "./tech/java.jpg"
+import cs from "./tech/cs.png"
 
-import meta from "./company/meta.png";
-import shopify from "./company/shopify.png";
-import starbucks from "./company/starbucks.png";
-import tesla from "./company/tesla.png";
+import freelance from "./company/freelance.png"
+import texnopark from "./company/texnopark.jpg"
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
-
+import hotel from "./hotel.png"
+import crm from "./crm2.png"
+import hyper from "./hyper.png"
+import boom from "./boom.png"
 export {
+  hotel,
+  boom, 
+  hyper,
+  herobg,
   logo,
   backend,
   creator,
+  crm,
   mobile,
   web,
   github,
@@ -48,15 +58,16 @@ export {
   mongodb,
   nodejs,
   reactjs,
+  site,
   redux,
   tailwind,
   typescript,
   threejs,
-  meta,
-  shopify,
-  starbucks,
-  tesla,
   carrent,
   jobit,
+  freelance,
   tripguide,
+  texnopark,
+  cs,
+  java
 };
