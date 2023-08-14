@@ -1,6 +1,5 @@
 import { BrowserRouter } from "react-router-dom"
 import { About, Contact, Experience, FeedBacks, Hero, Navbar, StarsCanvas, Tech, Works } from "./components/index"
-import { herobg } from "./assets"
 const App = () => {
   return (
     <BrowserRouter>

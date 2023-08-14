@@ -11,37 +11,34 @@
             "title": "Web Developer"
         },
         "card2": {
-            "title": "React Native Developer"
+            "title": "React Developer"
         },
         "card3": {
             "title": "Backend Developer"
-        },
-        "card4": {
-            "title": "Content Creater"
         },
         "about": "I'm a skilled software developer with experience in TypeScript and JavaScript, and expertise in frameworks like React, Node.js, and Three.js. I'm a quick learner and collaborate closely with clients to create efficient, scalable, and user-friendly solutions that solve real-world problems. Let's work together to bring your ideas to life!"
     },
     "expirience": {
         "sub": "What I have done so far",
-        "title": "Work Experience.",
+        "title": "Work Experience",
         "card1": {
             "title": "Web Developer",
             "company": "",
-            "date": "Jan 2022 - April 2023",
+            "date": "August 2022 - March 2023",
             "points": {
                 "text1": "Developing and maintaining web applications using React.js and other related technologies.",
-                "text2": "Implementing responsive design and ensuring cross-browser compatibility.",
+                "text2": "Implementing responsive design and ensuring compatibility with various browsers.",
                 "text3": "Participating in code reviews and providing constructive feedback to other developers."
             }
         },
         "card2": {
-            "title": "Full stack Developer",
+            "title": "Full Stack Developer",
             "company": "TexnoPark",
-            "date": "April 2023 - Present",
+            "date": "March 2023 - Present",
             "points": {
                 "text1": "Developing and maintaining web applications using React.js and other related technologies.",
-                "text2": "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-                "text3": "Implementing responsive design and ensuring cross-browser compatibility.",
+                "text2": "Collaborating with cross-functional teams, including designers, product managers, and other developers, to create high-quality products.",
+                "text3": "Implementing responsive design and ensuring compatibility with various browsers.",
                 "text4": "Participating in code reviews and providing constructive feedback to other developers."
             }
         }

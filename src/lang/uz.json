@@ -5,44 +5,41 @@
         "sub2": "interfayslar va veb dasturlarni yarataman"
     },
     "aboutcomponent": {
-        "sub": "Tanishuv",
-        "title": "Ko'zdan kechirish",
+        "sub": "Tanishish",
+        "title": "Tavsif",
         "card1": {
-            "title": "Veb dasturchi"
+            "title": "Veb-dasturchi"
         },
         "card2": {
-            "title": "React Native dasturchi"
+            "title": "React-dasturchi"
         },
         "card3": {
-            "title": "Backend dasturchi"
+            "title": "Backend-dasturchi"
         },
-        "card4": {
-            "title": "Tarkib yaratuvchisi"
-        },
-        "about": "Men TypeScript va JavaScriptda tajribali dasturchiman, va React, Node.js, Three.js kabi freymvorklarda mutaxassislik qilaman. Men tez o'rganuvchi bo'lib, mijozlar bilan yaqin hamkorlik qilaman, haqiqiy dunyodagi muammolarni hal qiladigan, samarali va foydalanuvchiga moslashtirilgan yechimlar yaratishda ishtirok etaman. Sizning ideyangizni hayotga o'tkazish uchun birgalikda ishlaymiz!"
+        "about": "Men TypeScript va JavaScript bilan tajriba egan va React, Node.js va Three.js kabi freymvorklarda mutaxassis bo'lgan mahoratli dasturchiman. Men tez o'rganuvchi odamman va mijozlar bilan yaqin hamkorlik qilishimiz orqali haqiqiy dunyo muammolarini hal qilishga qaratilgan samarali, kengaytiriladigan va foydalanishga qulay yechimlar yaratishni hohlaman. Iltimos, hamkorlik qilib, ideyangizni hayotga o'tkazaylik!"
     },
     "expirience": {
         "sub": "Men hozirgacha nima qildim",
-        "title": "Ish tajribasi.",
+        "title": "Ish tajribasi",
         "card1": {
             "title": "Veb-dasturchi",
             "company": "",
-            "date": "Yanvar 2022 - Aprel 2023",
+            "date": "Avgust 2022 - Mart 2023",
             "points": {
-                "text1": "React.js va boshqa bog'liq texnologiyalardan foydalanib veb-dasturlarni ishlab chiqish va saqlash.",
-                "text2": "Moslashuvchan dizaynning amalga oshirilishi va tarayuzli brauzerlarga moslashuvchanlik ta'minlash.",
-                "text3": "Kodning ko'rib chiqilishi va boshqa dasturchilarga foydali fikr berish."
+                "text1": "React.js va boshqa bog'liq texnologiyalardan foydalanib veb ilovalarni ishlab chiqish va qo'llab-quvvatlash.",
+                "text2": "Reaksiya beruvchi dizaynning amalga oshirilishi va turli brauzerlarga moslikni ta'minlash.",
+                "text3": "Kodni tekshirishda qatnashish va boshqa dasturchilarga konstruktiv qayta aloqani taqdim etish."
             }
         },
         "card2": {
-            "title": "Full stack Dasturchi",
+            "title": "To'liq stap dasturchi",
             "company": "TexnoPark",
-            "date": "Aprel 2023 - Hozirgi kunda",
+            "date": "Mart 2023 - Hozirgi vaqt",
             "points": {
-                "text1": "React.js va boshqa bog'liq texnologiyalardan foydalanib veb-dasturlarni ishlab chiqish va saqlash.",
-                "text2": "Dizaynerlar, mahsulot ma`murlari va boshqa dasturchilar kabi xalqaro jamoalar bilan hamkorlik qilish, sifatli mahsulotlar yaratish.",
-                "text3": "Moslashuvchan dizaynning amalga oshirilishi va tarayuzli brauzerlarga moslashuvchanlik ta'minlash.",
-                "text4": "Kodning ko'rib chiqilishi va boshqa dasturchilarga foydali fikr berish."
+                "text1": "React.js va boshqa bog'liq texnologiyalardan foydalanib veb ilovalarni ishlab chiqish va qo'llab-quvvatlash.",
+                "text2": "Dizaynerlar, mahsulot boshqaruvchilari va boshqa dasturchilar kabi xalqaro jamoalar bilan hamkorlik qilish, sifatli mahsulotlar yaratish.",
+                "text3": "Reaksiya beruvchi dizaynning amalga oshirilishi va turli brauzerlarga moslikni ta'minlash.",
+                "text4": "Kodni tekshirishda qatnashish va boshqa dasturchilarga konstruktiv qayta aloqani taqdim etish."
             }
         }
     },
