@@ -35,9 +35,11 @@ import hotel from "./hotel.png"
 import crm from "./crm2.png"
 import hyper from "./hyper.png"
 import boom from "./boom.png"
+
+
 export {
   hotel,
-  boom, 
+  boom,
   hyper,
   herobg,
   logo,

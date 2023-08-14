@@ -7,10 +7,7 @@ const App = () => {
       <div className="relative z-0 bg-primary">
         <div className="bg-hero-pattern bg-cover bg-no-repeat bg-center">
           <Navbar />
-          <div className="relative z-0">
-            <img className="absolute inset-0 z-[-1]" src={herobg} alt="" />
-            <Hero />
-          </div>
+          <Hero />
         </div>
         <About />
         <Experience />

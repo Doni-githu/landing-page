@@ -1,0 +1,13 @@
+@media only screen and (max-width:768px) {
+    .media{
+        display: flex !important;
+        flex-direction: column !important;
+    }
+}
+
+@media only screen and (max-width: 640px) {
+    .media {
+        display: flex !important;
+        flex-direction: row !important;
+    }
+}

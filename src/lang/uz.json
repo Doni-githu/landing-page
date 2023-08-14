@@ -24,7 +24,7 @@
     "expirience": {
         "sub": "Men hozirgacha nima qildim",
         "title": "Ish tajribasi.",
-        "card2": {
+        "card1": {
             "title": "Veb-dasturchi",
             "company": "",
             "date": "Yanvar 2022 - Aprel 2023",
@@ -34,7 +34,7 @@
                 "text3": "Kodning ko'rib chiqilishi va boshqa dasturchilarga foydali fikr berish."
             }
         },
-        "card3": {
+        "card2": {
             "title": "Full stack Dasturchi",
             "company": "TexnoPark",
             "date": "Aprel 2023 - Hozirgi kunda",
