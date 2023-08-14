@@ -22,7 +22,7 @@ const About = () => {
       <div className="mt-20 flex flex-wrap gap-10">
         {services.map((service, index) => (
           <>
-            <ServiceCard key={t(`aboutcomponent.card${index + 1}.title`)} index={index} item={service} />
+            <ServiceCard key={index} index={index} item={service} />
           </>
         ))}
       </div>
