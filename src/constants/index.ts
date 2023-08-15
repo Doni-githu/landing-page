@@ -13,7 +13,6 @@ import {
     docker,
     threejs,
     freelance,
-    texnopark,
     java,
     cs,
     crm,
