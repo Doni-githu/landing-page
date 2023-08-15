@@ -24,24 +24,11 @@
         "card1": {
             "title": "Veb-dasturchi",
             "company": "",
-            "date": "Avgust 2022 - Mart 2023",
+            "date": "Aprel 2022 - Hozirgi vaqt",
             "points": {
-                "text1": "React.js va boshqa bog'liq texnologiyalardan foydalanib veb ilovalarni ishlab chiqish va qo'llab-quvvatlash.",
-                "text2": "Reaksiya beruvchi dizaynning amalga oshirilishi va turli brauzerlarga moslikni ta'minlash.",
-                "text3": "Kodni tekshirishda qatnashish va boshqa dasturchilarga konstruktiv qayta aloqani taqdim etish."
+                "text1": "Mijozlar buyurtmalari bo'yicha loyihalarda ish. Asosan React, Redux, axios, NodeJS, ExpressJS, React Native texnologiyalarida ishlayman."
             }
-        },
-        "card2": {
-            "title": "To'liq stap dasturchi",
-            "company": "TexnoPark",
-            "date": "Mart 2023 - Hozirgi vaqt",
-            "points": {
-                "text1": "React.js va boshqa bog'liq texnologiyalardan foydalanib veb ilovalarni ishlab chiqish va qo'llab-quvvatlash.",
-                "text2": "Dizaynerlar, mahsulot boshqaruvchilari va boshqa dasturchilar kabi xalqaro jamoalar bilan hamkorlik qilish, sifatli mahsulotlar yaratish.",
-                "text3": "Reaksiya beruvchi dizaynning amalga oshirilishi va turli brauzerlarga moslikni ta'minlash.",
-                "text4": "Kodni tekshirishda qatnashish va boshqa dasturchilarga konstruktiv qayta aloqani taqdim etish."
-            }
-        }
+        }            
     },
     "workcomponent": {
         "sub": "Mening ishim",
